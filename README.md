@@ -3,7 +3,7 @@
 Práctica realizada sobre fichero winequality-red.csv extraído de página https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009. El fichero ha sido creado por Paulo Cortez (Univ. Minho), Antonio Cerdeira, Fernando Almeida, Telmo Matos and Jose Reis (CVRVV) @ 2009. (P. Cortez, 2009)
 
 En la carpeta Memoria, se entrega;
-  - salida de notebook en formato html con ejecución de codigo en R. 
+  - salida de notebook en formato pdf con ejecución de codigo en R. 
   - memoria con referencias al notebook para dar respuesta a cada uno de los puntos de la práctica.
 
 En la carpeta código, se entrega;
@@ -12,3 +12,5 @@ En la carpeta código, se entrega;
   - fichero de salida límpio y depurado ("winequality-red_out.csv")
 
 Trabajo realizado por Diego Martin Montoro y Javier Hernández Hernández, correspondiente a la práctica 2 de la asignatura Tipología y ciclo de vida de los datos, de Máster en Ciencia de Datos de la UOC.
+
+Nos hubiera gustado perfeccionar más esta práctica, con aplicación de distintas técnicas de depuración de datos (atribución de NA's y outliers) y comparación en el resultado final del modelo de regresión. Por carga de trabajo con otras asignaturas, esto no ha sido posible.
